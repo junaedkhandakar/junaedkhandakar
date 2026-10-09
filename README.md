@@ -6,9 +6,9 @@
 
 ### ⚡ About Me
 
-- 👨‍🎓 I'm a CSE student at **United International University (UIU)** 🇧🇩
-- 💻  Passionate **Software Engineer** **Game Developer** **Full Stack Developer**
-- 💡 Always learning new technologies
+- I'm a CSE student at **United International University (UIU)** 
+- Was a Passionate **Software Engineer** **Game Developer** **Full Stack Developer**
+- **Degree so cooked I always regret choosing it** 
 
 ---
 
@@ -94,4 +94,4 @@
 
 ---
 
-<h3 align="center">Let it happen Let it happen</h3>
+<h3 align="center">Let down, and hanging around</h3>
