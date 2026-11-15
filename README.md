@@ -16,7 +16,7 @@
 ## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@main/assets/svg/1f525.svg" width="19" height="19" alt=""> About Me
 
 - Final-year CSE student at **United International University (UIU)**
-- Was Passionate **Software Engineer**, **Game Developer**, **Vibe Coder**
+- Was a Passionate **Software Engineer**, **Game Developer**, **Vibe Coder**
 - **Degree so cooked I always regret choosing it**
 
 ---
