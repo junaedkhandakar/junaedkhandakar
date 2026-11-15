@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Md. Junaed Khandakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt=""></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58C4DD&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Unity+%26+C%23+Game+Developer;ML+%26+Computer+Vision" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58C4DD&center=true&vCenter=true&width=520&lines=Software+Engineer;Game+Developer;LARPer;Unemployed" alt="" />
 
 [![Views](https://komarev.com/ghpvc/?username=junaedkhandakar&label=Views&color=0e75b6&style=flat)](https://github.com/junaedkhandakar)
 [![Followers](https://img.shields.io/github/followers/junaedkhandakar?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junaedkhandakar/followers)
@@ -16,7 +16,7 @@
 ## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@main/assets/svg/1f525.svg" width="19" height="19" alt=""> About Me
 
 - Final-year CSE student at **United International University (UIU)**
-- Passionate **Software Engineer**, **Game Developer**, **Full Stack Developer**
+- Was Passionate **Software Engineer**, **Game Developer**, **Vibe Coder**
 - **Degree so cooked I always regret choosing it**
 
 ---
@@ -164,6 +164,6 @@
 
 <div align="center">
 
-*Let down, and hanging around*
-
+**Let down, and hanging around**
+**Let it happen**
 </div>
